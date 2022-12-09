@@ -1,0 +1,15 @@
+E:\CarrencyConverter\Application\bin\Debug\net6.0\Application.deps.json
+E:\CarrencyConverter\Application\bin\Debug\net6.0\Application.dll
+E:\CarrencyConverter\Application\bin\Debug\net6.0\ref\Application.dll
+E:\CarrencyConverter\Application\bin\Debug\net6.0\Application.pdb
+E:\CarrencyConverter\Application\bin\Debug\net6.0\Core.dll
+E:\CarrencyConverter\Application\bin\Debug\net6.0\Core.pdb
+E:\CarrencyConverter\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\CarrencyConverter\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CarrencyConverter\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\CarrencyConverter\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\CarrencyConverter\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\CarrencyConverter\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\CarrencyConverter\Application\obj\Debug\net6.0\Application.dll
+E:\CarrencyConverter\Application\obj\Debug\net6.0\ref\Application.dll
+E:\CarrencyConverter\Application\obj\Debug\net6.0\Application.pdb
